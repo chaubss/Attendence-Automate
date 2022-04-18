@@ -7,4 +7,4 @@ The scripts are:
 
 `submitpi.py`: Creates a virtual display so that the Selenium scipt can run on a server.
 
-It uses the Twilio Messaging API to remind the user via text message that the attendance is marked.
+It uses the [Twilio SMS API](https://www.twilio.com/docs/sms/api) to remind the user via text message that the attendance is marked.
